@@ -1,0 +1,25 @@
+/*body{
+    background-color: rosybrown;
+} */
+h1{
+    color: turquoise;
+    text-align: center;
+}
+.p-large{
+    font-size: 40px;
+}
+
+.p-green{
+    color: thistle;
+    background-color: lavenderblush;
+    font-size: 32px;
+}
+.p-red{
+    color: turquoise;
+    background-color: lavender;
+    font-size: 32px;
+}
+#title{
+    color: lavender;
+    background-color: lavenderblush;
+} 

@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/fc/87/73/fc8773dd3f6865d7f57c8cfe8caf2dcd.jpg");
+
+}
+#title{
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    font: londrina solid;
+    color: black;
+  
+}
+.p-subtitulo{
+    font-size: 30px;
+    background-color: lavenderblush;
+    color: black;
+}
+#subtitulo{
+    text-align: center;
+    font-size: 40px;
+}
+.p-parrafo{
+    background-color: lavender;
+    color: black;
+    font-size: 20px;
+}
+#lista{
+    text-align: center;
+    font-size: 40px;
+}
+.tabla{
+    width: 100%;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/564x/0e/ad/e1/0eade1f76a3f4720666face2fd23cbea.jpg");
+}
+#playlist{
+    text-align: center;
+    font-size: 40px;
+}
+
+#yt{
+    text-align: center;
+    font-size: 40px;
+}
