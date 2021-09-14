@@ -32,6 +32,7 @@ body{
     width: 100%;
     text-align: center;
     background-image: url("https://i.pinimg.com/564x/0e/ad/e1/0eade1f76a3f4720666face2fd23cbea.jpg");
+    list-style-position: inside;
 }
 #playlist{
     text-align: center;
@@ -39,6 +40,10 @@ body{
 }
 
 #yt{
+    text-align: center;
+    font-size: 40px;
+}
+#imagenes{
     text-align: center;
     font-size: 40px;
 }

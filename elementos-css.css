@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/8e/2d/15/8e2d15e1e7f0479c286a713d47e0ab12.gif");
+    background-size: cover;
+}
+
+.titulo{
+    text-align: center;
+    color: paleturquoise;
+    background-color: tan;
+    border: 5px solid palevioletred;
+}
+.subtitulo{
+    background-color: pink;
+    color: royalblue;
+    text-align: center;
+    padding: 20px;
+}
+#caja{
+    background-color: lightsalmon;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+#caja p {
+color: blanchedalmond;
+}
