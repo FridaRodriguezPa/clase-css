@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(173, 173, 173);
+}
+
+.title{
+ text-align: center;
+ font-family: 'Rajdhani', sans-serif;
+ font-weight: 700;
+ font-size: 60px;
+}
+.sub{
+    background-color: grey;
+    color: white;
+}
+#parrafo{
+ text-align: left;
+}
+.img{
+    float:left;
+    margin-right: 10px;
+}
+.section{
+    width:500px; 
+   margin: 0 auto;
+}
+.clear{
+    float: none;
+    clear: both;
+}

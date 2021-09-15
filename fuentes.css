@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://i.pinimg.com/236x/82/1c/b5/821cb53ee7d53b64774064cb5215334c.jpg");
+background-size: cover;
+}
+.title{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    background-color: burlywood;
+
+}
+.titledos{
+    font-family:'Amatic SC', cursive;
+     text-align: center;
+    background-color: lightgrey;
+}
+.titletres{
+    font-family:'Indie Flower', cursive;
+    text-align: center;
+    background-color: lightpink;
+  
+}
+.titlecuatro{
+    font-family:'Permanent Marker', cursive;
+    text-align: center;
+    background-color: lightyellow;
+  
+}
+.titlecinco{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    background-color: lightsteelblue;
+  
+}
