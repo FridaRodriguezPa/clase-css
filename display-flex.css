@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/c4/bd/7c/c4bd7c510e977b92c5f4e2094f09d638.jpg");
+    background-size: cover;
+}
+.container{
+    width: 90%;
+    height: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+    color: black;
+    display: flex;
+    /*Crea un espacio entre elementos*/
+    justify-content: space-around;
+    /*Hace que los elementos se muevan para abajo, acomodoandose con el espacio*/
+    flex-wrap: wrap;
+    align-items: center;
+   
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    /*Alinea el texto*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja1{
+    border: 2px solid purple;
+}
+.caja2{
+    border: 2px solid palevioletred;
+    align-self: start;
+}
+.caja3{
+    border: 2px solid red;
+}
+.caja4{
+    border: 2px solid hotpink;
+    align-self: flex-end;
+}
